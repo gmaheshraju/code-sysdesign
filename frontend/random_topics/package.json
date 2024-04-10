@@ -1,0 +1,21 @@
+{
+  "name": "random_topics",
+  "version": "1.0.0",
+  "description": "checksum test",
+  "main": "checksum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checksum",
+    "security",
+    "local",
+    "storage",
+    "token"
+  ],
+  "author": "Mahesh Guntumadugu",
+  "license": "ISC",
+  "dependencies": {
+    "node-localstorage": "^3.0.5"
+  }
+}
