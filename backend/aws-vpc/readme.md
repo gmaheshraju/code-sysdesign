@@ -1,5 +1,3 @@
-# AWS Networking
-
 # Create a VPC that you can use for servers in a aws production environment
 
 # Resiliency: deploy servers in two availability Zones using Auto Scaling group and ALB
